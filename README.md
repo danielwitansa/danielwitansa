@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danielwitansa
 - 👀 I’m interested in A.I. and Microcontroller Programming
 - 🌱 I’m currently learning Image Processing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "lynk.id/danielwitansa"
 
 <!---
